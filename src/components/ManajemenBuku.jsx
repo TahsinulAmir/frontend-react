@@ -13,6 +13,6 @@ function ManajemenBuku() {
             <div id="formUbah"></div>
             <div id="daftarBuku"></div>
         </div>
-    );
+    )
 }
 export default ManajemenBuku;
